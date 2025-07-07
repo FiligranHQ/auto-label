@@ -21,7 +21,7 @@ jobs:
 | labels_by_organization | Yes | A JSON in a string format showing a map of labels. The key is the organization name and the array a list of the labels to add |
 | github_token | No | The Github token to be used |
 
-On default `github_token` is infered from the context.
+On default `github_token` is inferred from the context.
 
 ## Outputs
 Nothing.
